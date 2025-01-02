@@ -1,16 +1,45 @@
-## Hi there 👋
+# Parham Ramezani  
+**He/Him**  
+📍 Abadan, Iran  
 
-<!--
-**prrmzz/prrmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+👨‍💻 **Data Scientist | Backend Developer | Big Data Engineer | BI Specialist**  
+🎓 Digital Electronics Engineer turned Data Professional  
+🌟 Leveraging ML/DL for impactful AI solutions  
+💹 Keen on finance and trading  
+🔗 [LinkedIn](https://www.linkedin.com/in/parham-ramezani-739451335)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue)  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-orange)  ![LLM](https://img.shields.io/badge/LLM-purple)  
+![Keras](https://img.shields.io/badge/Keras-red)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)  ![PyTorch](https://img.shields.io/badge/PyTorch-red)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-yellow)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  ![MongoDB](https://img.shields.io/badge/MongoDB-green)  ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  
+![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-orange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  
+![R](https://img.shields.io/badge/R-lightblue)  
+
+---
+
+## Certifications  
+- **IBM Data Science Professional Certificate**  
+- **Advanced Data Analytics with Python**  
+- **IELTS Academic**  
+
+---
+
+## GitHub Stats  
+![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamramezani&show_icons=true&theme=dark)  
+Most Used Languages:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamramezani&layout=compact&theme=dark)  
+
+---
+
+## Notable Projects  
+
+1️⃣ **Online Shop (2024)**  
+- **Tech Stack:** Django, Quasar Framework  
+- **Description:** Built a full-stack application with responsive UI and real-time functionality.  
+- [Demo Link](https://quasar-django.vercel.app/)  
+
+2️⃣ **Machine Learning & Deep Learning Projects (2021 - Present)**  
+- Developed ML models for predictive analytics and anomaly detection, optimizing key business processes.  
