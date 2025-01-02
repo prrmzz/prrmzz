@@ -35,8 +35,7 @@ Most Used Languages:
 
 1️⃣ **Online Shop (2024)**  
 - **Tech Stack:** Django, Quasar Framework  
-- **Description:** Built a full-stack application with responsive UI and real-time functionality.  
 - [Demo Link](https://quasar-django.vercel.app/)  
 
-2️⃣ **Machine Learning & Deep Learning Projects (2021 - Present)**  
+2️⃣ **Machine Learning & Deep Learning Projects (2020 - Present)**  
 - Developed ML models for predictive analytics and anomaly detection, optimizing key business processes.  
