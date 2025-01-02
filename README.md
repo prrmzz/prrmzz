@@ -12,8 +12,8 @@
 ---
 
 ## Tech Stack  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue)  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-orange)  ![LLM](https://img.shields.io/badge/LLM-purple)  ![Keras](https://img.shields.io/badge/Keras-red)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)  ![PyTorch](https://img.shields.io/badge/PyTorch-red)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-yellow)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  ![MongoDB](https://img.shields.io/badge/MongoDB-green)  ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  ![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django](https://img.shields.io/badge/Django-green)  ![ETL](https://img.shields.io/badge/ETL-lightgreen)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-orange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  ![R](https://img.shields.io/badge/R-lightblue)  
+![Python](https://img.shields.io/badge/Python-yellow) ![R](https://img.shields.io/badge/R-lightblue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue)  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-orange)  ![LLM](https://img.shields.io/badge/LLM-purple)  ![Keras](https://img.shields.io/badge/Keras-red)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)  ![PyTorch](https://img.shields.io/badge/PyTorch-red)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-yellow)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  ![MongoDB](https://img.shields.io/badge/MongoDB-green)  ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  ![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django](https://img.shields.io/badge/Django-green)  ![ETL](https://img.shields.io/badge/ETL-lightgreen)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-orange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  
 
 ---
 
