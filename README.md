@@ -40,9 +40,9 @@
 ---
 
 ## GitHub Stats  
-![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamramezani&show_icons=true&theme=dark)  
+![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrmzz&show_icons=true&theme=dark)  
 Most Used Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamramezani&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prrmzz&layout=compact&theme=dark)  
 
 ---
 
