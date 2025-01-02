@@ -22,13 +22,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)  
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  
-![Flask](https://img.shields.io/badge/Flask-lightgrey)  
-![Django](https://img.shields.io/badge/Django-green)  
-![ETL](https://img.shields.io/badge/ETL-lightgreen)  
-![Django REST Framework](https://img.shields.io/badge/DRF-red)  
-![AWS](https://img.shields.io/badge/AWS-orange)  
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  
-![R](https://img.shields.io/badge/R-lightblue)  
+![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django](https://img.shields.io/badge/Django-green)  ![ETL](https://img.shields.io/badge/ETL-lightgreen)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-orange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  ![R](https://img.shields.io/badge/R-lightblue)  
 
 ---
 
