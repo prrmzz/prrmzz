@@ -25,8 +25,8 @@
 ---
 
 ## GitHub Stats 📊  
-![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrmzz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prrmzz&layout=compact&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prrmzz&theme=dark)
-
+![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrmzz&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prrmzz&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prrmzz&layout=compact&theme=dark)
 ---
 
 ## Notable Projects 💻  
