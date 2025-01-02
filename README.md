@@ -12,8 +12,23 @@
 ---
 
 ## Tech Stack  
-![Python](https://img.shields.io/badge/Python-yellow) ![R](https://img.shields.io/badge/R-blue) ![C](https://img.shields.io/badge/C-lightblue) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgreen)  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red)  ![LLM](https://img.shields.io/badge/LLM-purple)  ![Keras](https://img.shields.io/badge/Keras-skyblue)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-purple)  ![PyTorch](https://img.shields.io/badge/PyTorch-red)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-yellow)  
-![Linux](https://img.shields.io/badge/Linux-purple) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  ![MongoDB](https://img.shields.io/badge/MongoDB-green)  ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  ![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django](https://img.shields.io/badge/Django-darkgreen)  ![ETL](https://img.shields.io/badge/ETL-lightgreen)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-darkorange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![ETL](https://img.shields.io/badge/ETL-00A859?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Cloud Computing](https://img.shields.io/badge/Cloud-00A1E0?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ---
 
