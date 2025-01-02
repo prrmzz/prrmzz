@@ -21,8 +21,8 @@
 ---
 
 ## Certifications  
-- **IBM Data Science Professional Certificate**  
-- **Advanced Data Analytics with Python**  
+- **C programming for hardware
+- **Design of Solar Power Generation System
 - **IELTS Academic**  
 
 ---
