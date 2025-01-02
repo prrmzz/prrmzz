@@ -16,13 +16,13 @@
 ![Keras](https://img.shields.io/badge/Keras-red)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)  ![PyTorch](https://img.shields.io/badge/PyTorch-red)  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-yellow)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet)  ![MongoDB](https://img.shields.io/badge/MongoDB-green)  ![Power BI](https://img.shields.io/badge/PowerBI-yellow)  
 ![Flask](https://img.shields.io/badge/Flask-lightgrey)  ![Django REST Framework](https://img.shields.io/badge/DRF-red)  ![AWS](https://img.shields.io/badge/AWS-orange)  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-skyblue)  
-![R](https://img.shields.io/badge/R-lightblue)  
+![R](https://img.shields.io/badge/R-lightblue)  ![ETL](https://img.shields.io/badge/Flask-lightgrey)
 
 ---
 
 ## Certifications  
-- **C programming for hardware
-- **Design of Solar Power Generation System
+- **C programming for hardware**
+- **Design of Solar Power Generation System**
 - **IELTS Academic**  
 
 ---
