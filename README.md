@@ -4,11 +4,11 @@
 
 ## About Me  
 👨‍💻 **Data Scientist | Back-end Developer | Big Data Engineer | BI Specialist**  
-🎓 Digital Electronics Engineer turned Data Professional  
-🌟 Leveraging ML/DL for impactful AI solutions  
-🔧 Embedded Systems Development (ARM & AVR), FPGA Programming (VHDL) 
-💹 Keen on finance and trading 
-🔗 [LinkedIn](https://www.linkedin.com/in/parham-ramezani-739451335)  
+🎓 **Digital Electronics Engineer turned Data Professional**  
+🌟 **Leveraging ML/DL for impactful AI solutions**  
+🔧 **Embedded Systems Development (ARM & AVR), FPGA Programming (VHDL)**  
+💹 **Keen on finance and trading**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/parham-ramezani-739451335)  
 
 ---
 
