@@ -7,7 +7,7 @@
 🎓 **Digital Electronics Engineer turned Data Professional**  
 🌟 **Leveraging ML/DL for impactful AI solutions**  
 🔧 **Embedded Systems Development (ARM & AVR), FPGA Programming (VHDL)**  
-💹 **Keen on finance and trading**  
+💹 **Keen on computer vision, IoT & finance**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/parham-ramezani-739451335)  
 
 ---
