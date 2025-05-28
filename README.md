@@ -35,6 +35,7 @@
 ## Notable Projects 💻  
 
 1️⃣ **Web application projects**  
+- **Attending in plenty of projects as a backend developer, software architecture designer** 
 - **its my first project, and so memorable for me! Tech Stack:** Django, Quasar Framework  
 - [Demo Link](https://quasar-django.vercel.app/)  
 
