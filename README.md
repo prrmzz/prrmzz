@@ -34,8 +34,8 @@
 
 ## Notable Projects 💻  
 
-1️⃣ **Online Shop (2024)**  
-- **Tech Stack:** Django, Quasar Framework  
+1️⃣ **Web application projects**  
+- **its my first project, and so memorable for me! Tech Stack:** Django, Quasar Framework  
 - [Demo Link](https://quasar-django.vercel.app/)  
 
 2️⃣ **Machine Learning & Deep Learning Projects (2020 - Present)**  
