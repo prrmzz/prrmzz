@@ -2,7 +2,7 @@
 **He/Him**  
 📍 Abadan, Iran  
 
-## **Data Scientist | Back-end Developer | Big Data Engineer | BI Specialist**  
+## **Data Scientist, Back-end Developer, Big Data Engineer, BI Specialist**  
 ## **Digital Electronics Engineer turned Data Professional**  
 ## **Leveraging ML/DL for impactful AI solutions**  
 ## **Embedded Systems Development (ARM & AVR), FPGA Programming (VHDL)**  
