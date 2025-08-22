@@ -29,14 +29,3 @@
 ## GitHub Stats 📊  
 ![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrmzz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prrmzz&layout=compact&theme=dark)
----
-
-## Notable Projects 💻  
-
-1️⃣ **Web application projects**  
-- **Attending in plenty of projects as a backend developer, software architecture designer** 
-- **its my first project, and so memorable for me! Tech Stack:** Django, Quasar Framework, supabase
-- [Demo Link](https://quasar-django.vercel.app/)  
-
-2️⃣ **Machine Learning & Deep Learning Projects (2020 - Present)**  
-- Developed ML models for predictive analytics and anomaly detection, optimizing key business processes.
